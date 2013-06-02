@@ -22,6 +22,29 @@ Doctor: true,
 Bio: "An actual UK family doctor (physician, GP etc) who loves his patients. Fights a brave war with UK institutions on their ‘heart healthy advice’ doled out by organizations beholden to the grain industry. Can be a bit wonky at times with posts on ‘grounding’ to leak electrons into the beach, but still an excellent read. Digs up great research, and he must be a godsend to his patients."
 },
 {
+Name: "Gary Taubes",
+Twitter: "GaryTaubes",
+Website: "http://www.nusi.org/",
+Photo: "GaryTaubes.jpg",
+Bio: "Physicist & journalist, which makes me like him already. Author of “Why we get fat” and “Good calories, bad calories”. Taubes gained prominence in the low-carb diet debate following the publication of his 2002 New York Times Magazine piece \"What if It's All Been a Big Fat Lie?\". Co-founder of the Nutritional Science Institute. Recently published in the respected British Medical Journal about what really makes us fat. With his articles, books and work for NuSI, he’s a pillar of the field."
+},
+{
+Name: "Peter Attia",
+Twitter: "PeterAttiaMD",
+Photo: "PeterAttiaMD.jpg",
+Doctor: true,
+Website: "http://www.nusi.org/",
+Bio: "Trained as a surgeon, but later opted to work for McKinsey & Company. Found that despite exercising and following ‘the old consensus’, he started to gain weight, which he could not get rid of. Decided to study the science, and started “the war on insulin”. Co-founder of the Nutritional Science Institute. NuSi is founded with $35M, and its stated goal is to clarify loads of things about how our body deals with food. Peter also maintains a blog called The Eating Academy, where he’s done a marvelous job on elucidating lipidology, cholesterol, diabetes etc. Worth reading!"
+},
+{
+Name: "Robert Lustig",
+Doctor: true,
+Twitter: '',
+Photo: "RobertLustig.jpg",
+Website: 'http://en.wikipedia.org/wiki/Robert_Lustig',
+Bio: "Robert H. Lustig is an American pediatric endocrinologist at the University of California, San Francisco where he is a Professor of Clinical Pediatrics. Achieved internet fame with his YouTube lecture “<a href=\"http://www.youtube.com/watch?v=dBnniua6-oM\">Sugar: the bitter truth</a>”, which now tops 3.5 million views. Is the main fructose antagonist. Author of a recent <a href=\"http://www.motherjones.com/blue-marble/2013/02/robert-lustic-study-does-sugar-cause-diabetes\">epic paper</a> which argues convincingly that sugar is indeed to blame for the current epidemic of obesity and diabetes."
+},
+{
 Name: "J. Stanton",
 Photo: "jstanton.jpg",
 Website: "http://www.gnolls.org/",
@@ -112,29 +135,7 @@ Website: "http://www.wheatbellyblog.com/2011/07/who-is-dr-william-davis/",
 Photo: "WilliamDavisMD.jpg",
 Bio: "What can I say. Dr Davis warns us nonstop about the evils of grain, of which it appears there are many. While I tend to agree, Dr Davis sees grain behind every tree and as the root cause of almost everything. However, it can’t be denied that by now it is clear that such a thing as ‘non-celiac grain intolerance’ actually exists, and that many people can benefit from eliminating grains from their diet. Publishes success stories most Fridays on his blog."
 },
-{
-Name: "Gary Taubes",
-Twitter: "GaryTaubes",
-Website: "http://www.nusi.org/",
-Photo: "GaryTaubes.jpg",
-Bio: "Physicist & journalist, which makes me like him already. Author of “Why we get fat” and “Good calories, bad calories”. Taubes gained prominence in the low-carb diet debate following the publication of his 2002 New York Times Magazine piece \"What if It's All Been a Big Fat Lie?\". Co-founder of the Nutritional Science Institute. Recently published in the respected British Medical Journal about what really makes us fat. With his articles, books and work for NuSI, he’s a pillar of the field."
-},
-{
-Name: "Peter Attia",
-Twitter: "PeterAttiaMD",
-Photo: "PeterAttiaMD.jpg",
-Doctor: true,
-Website: "http://www.nusi.org/",
-Bio: "Trained as a surgeon, but later opted to work for McKinsey & Company. Found that despite exercising and following ‘the old consensus’, he started to gain weight, which he could not get rid of. Decided to study the science, and started “the war on insulin”. Co-founder of the Nutritional Science Institute. NuSi is founded with $35M, and its stated goal is to clarify loads of things about how our body deals with food. Peter also maintains a blog called The Eating Academy, where he’s done a marvelous job on elucidating lipidology, cholesterol, diabetes etc. Worth reading!"
-},
-{
-Name: "Robert Lustig",
-Doctor: true,
-Twitter: '',
-Photo: "RobertLustig.jpg",
-Website: 'http://en.wikipedia.org/wiki/Robert_Lustig',
-Bio: "Robert H. Lustig is an American pediatric endocrinologist at the University of California, San Francisco where he is a Professor of Clinical Pediatrics. Achieved internet fame with his YouTube lecture “<a href=\"http://www.youtube.com/watch?v=dBnniua6-oM\">Sugar: the bitter truth</a>”, which now tops 3.5 million views. Is the main fructose antagonist. Author of a recent <a href=\"http://www.motherjones.com/blue-marble/2013/02/robert-lustic-study-does-sugar-cause-diabetes\">epic paper</a> which argues convincingly that sugar is indeed to blame for the current epidemic of obesity and diabetes."
-},
+
 {
 Name: "Andreas Eenfeldt",
 Doctor: true,
