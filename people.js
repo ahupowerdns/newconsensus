@@ -60,6 +60,13 @@ Doctor: true,
 Bio: "Drs Eric C. Westman, Stephen D. Phinney and Jeff S. Volek are noted academics that have banded together to write a modern tome on the Atkins diet, incorporating the latest insights. The \"New Atkins For A New You\" book, which is a rather popular title given the academic background of the authors, has been credited with reenergizing the Atkins movement. Phinney and Volek meanwhile have authored several books on the art of low-carb living &amp; sports performance."
 },
 {
+Name: "Adele Hite",
+Website: "http://eathropology.com",
+Photo: "AdeleHite.jpg",
+Twitter: "ahhite",
+Bio: "Master of public health, registered dietitian. Was working on a PhD in nutrition epidemiology, but for now has dropped out citing that her public health work (as found on her blog) was reportedly making people uncomfortable working with her. That's what you get if you upset the consensus! Active in the <a href=\"http://www.forahealthynation.org/\">Healthy Nation Coalition</a>. Fights the good fight with relevant materials, great graphs, and by flogging it out on the comment sections."
+},
+{
 Name: "Dr Thomas Dayspring",
 Twitter: "DrLipid",
 Photo: "DrLipid.jpg",
