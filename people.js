@@ -26,7 +26,7 @@ Name: "Gary Taubes",
 Twitter: "GaryTaubes",
 Website: "http://www.nusi.org/",
 Photo: "GaryTaubes.jpg",
-Bio: "Physicist & journalist, which makes me like him already. Author of “Why we get fat” and “Good calories, bad calories”. Taubes gained prominence in the low-carb diet debate following the publication of his 2002 New York Times Magazine piece \"What if It's All Been a Big Fat Lie?\". Co-founder of the Nutritional Science Institute. Recently published in the respected British Medical Journal about what really makes us fat. With his articles, books and work for NuSI, he’s a pillar of the field."
+Bio: "Physicist & journalist, which makes me like him already. Author of “Why we get fat” and “Good calories, bad calories”. Taubes gained prominence in the low-carb diet debate following the publication of his 2002 New York Times Magazine piece <a href=\"http://www.nytimes.com/2002/07/07/magazine/what-if-it-s-all-been-a-big-fat-lie.html?pagewanted=all&src=pm\">\"What if It's All Been a Big Fat Lie?\"</a>. Co-founder of the <a href=\"http://www.nusi.org\">Nutritional Science Institute</a>. Recently published in the respected British Medical Journal about <a href=\"http://www.bmj.com/content/346/bmj.f1050\">what really makes us fat</a>. With his articles, books and work for NuSI, he’s a pillar of the field."
 },
 {
 Name: "Peter Attia",
@@ -34,7 +34,7 @@ Twitter: "PeterAttiaMD",
 Photo: "PeterAttiaMD.jpg",
 Doctor: true,
 Website: "http://www.nusi.org/",
-Bio: "Trained as a surgeon, but later opted to work for McKinsey & Company. Found that despite exercising and following ‘the old consensus’, he started to gain weight, which he could not get rid of. Decided to study the science, and started “the war on insulin”. Co-founder of the Nutritional Science Institute. NuSi is founded with $35M, and its stated goal is to clarify loads of things about how our body deals with food. Peter also maintains a blog called The Eating Academy, where he’s done a marvelous job on elucidating lipidology, cholesterol, diabetes etc. Worth reading!"
+Bio: "Trained as a surgeon, but later opted to work for McKinsey & Company. Found that despite exercising and following ‘the old consensus’, he started to gain weight, which he could not get rid of. Decided to study the science, and started “the war on insulin”. Co-founder of the Nutritional Science Institute. NuSi is founded with $35M, and its stated goal is to clarify loads of things about how our body deals with food. Peter also maintains a blog called <a href=\"http://eatingacademy.com/\">The Eating Academy</a>, where he’s done a marvelous job on elucidating lipidology, cholesterol, diabetes etc. Worth reading!"
 },
 {
 Name: "Robert Lustig",
@@ -52,12 +52,20 @@ Bio: "Author of the Gnoll Credo, a well known paleo book. His story “Eat like 
 Twitter: ""
 },
 {
+Name: "Westman, Phinney, Volek",
+Photo: "WestmanPhinneyVolek.jpg",
+Twitter: "",
+Website: "http://www.amazon.com/dp/1439190275/?tag=opeminreq-20",
+Doctor: true,
+Bio: "Drs Eric C. Westman, Stephen D. Phinney and Jeff S. Volek are noted academics that have banded together to write a modern tome on the Atkins diet, incorporating the latest insights. The \"New Atkins For A New You\" book, which is a rather popular title given the academic background of the authors, has been credited with reenergizing the Atkins movement. Phinney and Volek meanwhile have authored several books on the art of low-carb living &amp; sports performance."
+},
+{
 Name: "Dr Thomas Dayspring",
 Twitter: "DrLipid",
 Photo: "DrLipid.jpg",
 Website: "http://www.lecturepad.org/index.php/home/contributing-authors/816-thomas-dayspring-md-facp-fnla-ncmp",
 Doctor: true,
-Bio: "A specialist lipidologist. An expert on all matters of fat in the blood, perhaps one of the best. Believes that carbohydrates cause many issues with blood lipids, and standard bearer that “high cholesterol” is a nonsense diagnosis. Overweight, which is interesting given that he should know how to deal with that! Unlike some of the hardcore ‘low carbing solves everything’, he provides very detailed case studies on when what kind of medication is needed to treat a patient. Has commercial ties to lipid testing industry, speaker for big pharma. Still, he’s an indispensable authority and a great educator."
+Bio: "A specialist lipidologist. An expert on all matters of fat in the blood, perhaps one of the best. Believes that carbohydrates cause many issues with blood lipids, and standard bearer that “high cholesterol” is a nonsense diagnosis. Unlike some of the hardcore ‘low carbing solves everything’ folks, he provides very detailed case studies on when what kind of medication is needed to treat a patient. Has commercial ties to lipid testing industry, speaker for big pharma. Still, he’s an indispensable authority and a great educator."
 },
 {
 Name: "Dr Aseem Malhothra",
@@ -66,6 +74,13 @@ Doctor: true,
 Photo: "DrAseemMalhotra.jpg",
 Website: "http://www.guardian.co.uk/profile/aseem-malhotra",
 Bio: "Dr Malhothra is a British cardiologist who thinks our current epidemic of obesity and diabetes (‘Diabesity’) can be prevented. Fights the old consensus with frequent articles in mainstream newspapers. Author of a recent and important paper in the British Medical Journal “<a href=\"http://www.bmj.com/content/346/bmj.f3199\">The dietary advice on added sugar needs emergency surgery</a>”"
+},
+{
+Name: "Chris Kresser",
+Website: "http://chriskresser.com/",
+Twitter: "chriskresser",
+Photo: "ChrisKresser.jpg",
+Bio: "This self-described \"health detective specializing in investigative medicine, blogger, podcaster, teacher and a Paleo diet and lifestyle enthusiast\" provides a steady stream of research updates on his blog. In addition, his Revolution Health Radio programs cover the whole spectrum of paleo &amp; living."
 },
 {
 Name: "Yoni Freedhoff",
@@ -157,7 +172,7 @@ Name: "Richard D. Feinman (‘Richard the Other’)",
 Twitter: "",
 Website: "http://rdfeinman.wordpress.com/",
 Photo: "RichardDFeinman.jpg",
-Bio: "Richard David Feinman is a professor of biochemistry and medical researcher who studies nutrition and metabolism. His current area of research is the area of diet composition and energy balance. He is generally credited for doing the first serious scientific research on the Atkins Diet. His latest work is on how cancer thrives on sugar and insulin, and the effects of very low carb diets on tumors."
+Bio: "Richard David Feinman is a professor of biochemistry and medical researcher who studies nutrition and metabolism. His current area of research is the area of diet composition and energy balance. <a href=\"http://en.wikipedia.org/wiki/Richard_D._Feinman\">He is generally credited</a> for doing the first serious scientific research on the Atkins Diet. His latest work is on how cancer thrives on sugar and insulin, and the effects of very low carb diets on tumors."
 },
 {
 Name: "Tom Naughton",
