@@ -42,7 +42,7 @@ Twitter: "DrAseemMalhotra",
 Doctor: true,
 Photo: "DrAseemMalhotra.jpg",
 Website: "http://www.guardian.co.uk/profile/aseem-malhotra",
-Bio: "Dr Malhothra is a British cardiologist who thinks our current epidemic of obesity and diabetes (‘Diabesity’) can be prevented. Fights the old consensus with frequent articles in mainstream newspapers. Author of a recent and important paper in the British Medical Journal “The dietary advice on added sugar needs emergency surgery”"
+Bio: "Dr Malhothra is a British cardiologist who thinks our current epidemic of obesity and diabetes (‘Diabesity’) can be prevented. Fights the old consensus with frequent articles in mainstream newspapers. Author of a recent and important paper in the British Medical Journal “<a href=\"http://www.bmj.com/content/346/bmj.f3199\">The dietary advice on added sugar needs emergency surgery</a>”"
 },
 {
 Name: "Yoni Freedhoff",
