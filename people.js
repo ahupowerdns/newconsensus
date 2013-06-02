@@ -48,7 +48,7 @@ Bio: "Robert H. Lustig is an American pediatric endocrinologist at the Universit
 Name: "J. Stanton",
 Photo: "jstanton.jpg",
 Website: "http://www.gnolls.org/",
-Bio: "Author of the Gnoll Credo, a well known paleo book. His story “Eat like a predator, not like prey” nicely brings together a lot of the paleo mindset and what it is based on.",
+Bio: "Author of the Gnoll Credo, a well known paleo book. His story “<a href=\"http://www.gnolls.org/1141/eat-like-a-predator-not-like-prey-paleo-in-six-easy-steps-a-motivational-guide/\">Eat like a predator, not like prey</a>” nicely brings together a lot of the paleo mindset and what it is based on.",
 Twitter: ""
 },
 {
@@ -81,6 +81,14 @@ Twitter: "pauljaminet",
 Website: "http://perfecthealthdiet.com",
 Photo: "PaulJaminet.jpg",
 Bio: "Paul, and his wife Shou-Ching, are both scientists originally from other fields. Faced with their own health issues that would not go away despite good medical care, they embarked on half a decade of research during which they encountered the paleo philosophy. They took this and ran with it, which culminated in the book The Perfect Health Diet. In the book, they cover not just what to eat, but why. In addition, unlike some more one-track publications, they spend time on the variations between people and their dietary needs. Various readers of this page wrote in to highly recommend the Jaminets and their book, as I had missed them on the first time round. Specifically, their attention to intestinal health is much appreciated"
+},
+{
+Name: "Dr Jay Wortman",
+Doctor: true,
+Twitter: "DrJayWortman",
+Photo: "DrJayWortman.jpg",
+Website: "http://www.drjaywortman.com/",
+Bio: "Dr. Wortman is a physician from Canada. After working in construction for ten years he returned to school to obtain a BSc in Biology and Chemistry and a medical degree. Developed type 2 diabetes himself, dropped all carbs and recovered his health. Canada’s aboriginal populations have been developing rampant diabetes and obesity after following the advice to lay off their arterycloggingsaturatedfats!! of their traditional diets, and to government guidelines. Dr Wortman has made a project of helping these communities return to eating real food that used to work for them. This project was a great success as shown in the <a href=\"http://www.mybigfatdiet.net/\">My Big Fat Diet</a> documentary. In 2003, Dr. Wortman received the National Aboriginal Achievement Award for Medicine. He’s currently reentering active medical service after having been in government for decades. He’s a man to admire!"
 },
 {
 Name: "Chris Kresser",
@@ -188,14 +196,7 @@ Photo: "TomDNaughton.jpg",
 Website: "http://www.fathead-movie.com/",
 Bio: "Comedian, educator, health writer, software developer. What’s not to like! Saw the ‘Supersize me’ movie, and thought it was a load of bologna. To counteract this funny but inaccurate movie, he decided to make a funny but correct one in response. In “Fathead the movie”, he eats a lot of fast food but still manages to lose weight. In other scenes, renowned experts weigh in on the sorry state of the ‘old consensus’. These days, Tom runs a blog full of interesting information and links."
 },
-{
-Name: "Dr Jay Wortman",
-Doctor: true,
-Twitter: "DrJayWortman",
-Photo: "DrJayWortman.jpg",
-Website: "http://www.drjaywortman.com/",
-Bio: "Dr. Wortman is a physician from Canada. After working in construction for ten years he returned to school to obtain a BSc in Biology and Chemistry and a medical degree. Developed type 2 diabetes himself, dropped all carbs and recovered his health. Canada’s aboriginal populations have been developing rampant diabetes and obesity after following the advice to lay off their arterycloggingsaturatedfats!! of their traditional diets, and to government guidelines. Dr Wortman has made a project of helping these communities return to eating real food that used to work for them. This project was a great success as shown in the <a href=\"http://www.mybigfatdiet.net/\">My Big Fat Diet</a> documentary. In 2003, Dr. Wortman received the National Aboriginal Achievement Award for Medicine. He’s currently reentering active medical service after having been in government for decades. He’s a man to admire!"
-},
+
 {
 Name: "Ray Medina",
 Twitter: "",
