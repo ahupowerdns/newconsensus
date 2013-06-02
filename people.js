@@ -76,6 +76,13 @@ Website: "http://www.guardian.co.uk/profile/aseem-malhotra",
 Bio: "Dr Malhothra is a British cardiologist who thinks our current epidemic of obesity and diabetes (‘Diabesity’) can be prevented. Fights the old consensus with frequent articles in mainstream newspapers. Author of a recent and important paper in the British Medical Journal “<a href=\"http://www.bmj.com/content/346/bmj.f3199\">The dietary advice on added sugar needs emergency surgery</a>”"
 },
 {
+Name: "Paul Jaminet",
+Twitter: "pauljaminet",
+Website: "http://perfecthealthdiet.com",
+Photo: "PaulJaminet.jpg",
+Bio: "Paul, and his wife Shou-Ching, are both scientists originally from other fields. Faced with their own health issues that would not go away despite good medical care, they embarked on half a decade of research during which they encountered the paleo philosophy. They took this and ran with it, which culminated in the book The Perfect Health Diet. In the book, they cover not just what to eat, but why. In addition, unlike some more one-track publications, they spend time on the variations between people and their dietary needs. Various readers of this page wrote in to highly recommend the Jaminets and their book, as I had missed them on the first time round. Specifically, their attention to intestinal health is much appreciated"
+},
+{
 Name: "Chris Kresser",
 Website: "http://chriskresser.com/",
 Twitter: "chriskresser",
