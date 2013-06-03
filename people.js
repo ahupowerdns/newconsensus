@@ -179,7 +179,13 @@ Website: "http://www.wheatbellyblog.com/2011/07/who-is-dr-william-davis/",
 Photo: "WilliamDavisMD.jpg",
 Bio: "What can I say. Dr Davis warns us nonstop about the evils of grain, of which it appears there are many. While I tend to agree, Dr Davis sees grain behind every tree and as the root cause of almost everything. However, it can’t be denied that by now it is clear that such a thing as ‘non-celiac grain intolerance’ actually exists, and that many people can benefit from eliminating grains from their diet. Publishes success stories most Fridays on his blog."
 },
-
+{
+Name: "Sarah Ballantyne, (a.k.a. The Paleo Mom)",
+Twitter: "ThePaleoMom",
+Photo: "SarahBallantyne.jpg",
+Website: "http://www.thepaleomom.com",
+Bio: "Sarah is a scientist and recent convert to paleolithic nutrition, which has made a monumental difference to her health, including contributing to her 120-pound weight loss. Writes convincingly on how to 'go paleo', and especially how to take a family with young kids along on this journey."
+},
 {
 Name: "Andreas Eenfeldt",
 Doctor: true,
