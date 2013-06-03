@@ -31,7 +31,9 @@
 		<center><h3>Key Opinion Leaders in the <a href="index.html">developing new
 		consensus</a></h3>
 		<small>Suggestions or comments welcome on: bert.hubert@netherlabs.nl / <a
-		href="http://twitter.com/PowerDNS_Bert">@PowerDNS_Bert</a></small>
+		href="http://twitter.com/PowerDNS_Bert">@PowerDNS_Bert</a><br/>
+		People that have actually worked as medical doctors and have treated patients are marked with a <font color="#ff0000">✚</font>
+		</small>
 		</center>
 		<hr/>
 		
@@ -49,10 +51,13 @@
   <script>
 $(document).foundation();
 $(document).ready(function() { 
+//    	'<% if(Twitter!='') { print("/ <a href=\"http://twitter.com/"+ Twitter+"\">@"+Twitter+"</a>"); } %>' +
     var compiledLeft =  _.template(
     	'<div class="large-offset-1 large-5 columns bio">'+
     	'<p><h5><a href="<%= Website %>"><%= Name %></a> '+
-    	'/ <a href="http://twitter.com/<%= Twitter %>">@<%=Twitter%></a> </h5></p>'+
+	'<% if(Twitter) { print("/ <a href=http://twitter.com/"+ Twitter+">@" + Twitter+"</a>"); } %>' +
+	'<% if(typeof Doctor != \'undefined\') print("&nbsp;<font color=#ff0000>✚</font>"); %>'+
+    	' </h5></p>'+    	
     	'<p><img src="<%= Photo %>"/></p>'+
     	'<p><%= Bio %></p>'+
     	'</div>');
@@ -60,7 +65,9 @@ $(document).ready(function() {
     var compiledRight =_.template(
     	'<div class="large-5 columns bio">'+
     	'<p><h5><a href="<%= Website %>"><%= Name %></a> '+
-    	'/ <a href="http://twitter.com/<%= Twitter %>">@<%=Twitter%></a> </h5></p>'+
+	'<% if(Twitter) { print("/ <a href=http://twitter.com/"+ Twitter+">@" + Twitter+"</a>"); } %>' +
+	'<% if(typeof Doctor != \'undefined\') print("&nbsp;<font color=#ff0000>✚</font>"); %>'+	
+    	' </h5></p>'+    	
     	'<p><img src="<%= Photo %>"/></p>'+
     	'<p><%= Bio %></p>'+
     	'</div>');
