@@ -57,7 +57,7 @@ Photo: "WestmanPhinneyVolek.jpg",
 Twitter: "",
 Website: "http://www.amazon.com/dp/1439190275/?tag=opeminreq-20",
 Doctor: true,
-Bio: "Drs Eric C. Westman, Stephen D. Phinney and Jeff S. Volek are noted academics that have banded together to write a modern tome on the Atkins diet, incorporating the latest insights. The \"New Atkins For A New You\" book, which is a rather popular title given the academic background of the authors, has been credited with reenergizing the Atkins movement. Phinney and Volek meanwhile have authored several books on the art of low-carb living &amp; sports performance."
+Bio: "Drs Eric C. Westman, Stephen D. Phinney and Jeff S. Volek are noted academics that have banded together to write a modern tome on the Atkins diet, incorporating the latest insights. The \"New Atkins For A New You\" book, which is a rather popular title given the academic background of the authors, has been credited with reenergizing the Atkins movement. <a href=\"http://artandscienceoflowcarb.com/blog/\">Phinney and Volek</a> meanwhile <a href=\"http://artandscienceoflowcarb.com/\">have authored several books on the art of low-carb living &amp; sports performance</a>."
 },
 {
 Name: "Adele Hite",
@@ -95,7 +95,7 @@ Doctor: true,
 Twitter: "DrJayWortman",
 Photo: "DrJayWortman.jpg",
 Website: "http://www.drjaywortman.com/",
-Bio: "Dr. Wortman is a physician from Canada. After working in construction for ten years he returned to school to obtain a BSc in Biology and Chemistry and a medical degree. Developed type 2 diabetes himself, dropped all carbs and recovered his health. Canada’s aboriginal populations have been developing rampant diabetes and obesity after following the advice to lay off their arterycloggingsaturatedfats!! of their traditional diets, and to government guidelines. Dr Wortman has made a project of helping these communities return to eating real food that used to work for them. This project was a great success as shown in the <a href=\"http://www.mybigfatdiet.net/\">My Big Fat Diet</a> documentary. In 2003, Dr. Wortman received the National Aboriginal Achievement Award for Medicine. He’s currently reentering active medical service after having been in government for decades. He’s a man to admire!"
+Bio: "Dr. Wortman is a physician from Canada. After working in construction for ten years he returned to school to obtain a BSc in Biology and Chemistry and a medical degree. Developed type 2 diabetes himself, dropped all carbs and recovered his health. Canada’s aboriginal populations have been developing rampant diabetes and obesity after following the advice to lay off the arterycloggingsaturatedfats!! of their traditional diets, and to government guidelines. Dr Wortman has made a project of helping these communities return to eating real food that used to work for them. This project was a great success as shown in the <a href=\"http://www.mybigfatdiet.net/\">My Big Fat Diet</a> documentary. In 2003, Dr. Wortman received the National Aboriginal Achievement Award for Medicine. He’s currently reentering active medical service after having been in government for decades. He’s a man to admire!"
 },
 {
 Name: "Chris Kresser",
