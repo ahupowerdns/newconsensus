@@ -224,6 +224,20 @@ Twitter: "",
 Website: "http://www.syontix.com",
 Photo: "RayMedina.jpg",
 Bio: "A lot of the new consensus is about the importance of carbs and the right kinds of fat. However, it turns out that within our gut, trillions of bacteria form a vital part of our metabolism. The importance of this ‘hidden organ’ is only now becoming clear. Ray was a long time sufferer of a host of digestive ailments, and after seeing lots of doctors and undergoing many treatments that did not work, he decided to educate himself on all matters of the gut and managed to restore his health.</p><p>This led him to found a company that sells pre- and probiotics, and I don’t know if they are good or not. However, I do know that the Syontix blog is a fount of gut-related wisdom. I feel strongly that when we look back a few decades down the road, we’ll be shaking our heads about how we ignored our gut bacteria “and tried to lose weight by eating less hahaha”."
+},
+{
+Name: "Alan L. Watson",
+Twitter: "DietHeartNews",
+Photo: "AlanLWatson.jpg",
+Website: "http://dietheartnews.com/",
+Bio: "Alan L. Watson is a history graduate from the University of Minnesota, and perhaps his sense of history has helped hem see the bigger picture. Attended the \"Atkins vs. Whitaker\" debate in New York City in April, 1997, which sent him on the path to investigate our diets. Author of two books, 21 Days to a Healthy Heart (2002) and Cereal Killer, the unintended consequences of the low fat diet (2008). Tweets a reliable stream of observations of the oddities of the old consensus, on which he also expands on his <a href=\"http://dietheartnews.com\">Diet Heart News</a> website. Created a <a href=\"http://dietheartnews.com/2012/08/illustrated-history-of-heart-disease-1825-2015/\">wonderful timeline of how we ended up with the current low fat dogma</a>, a timeline that would be funny if it weren't so incredibly sad!"
+},
+{
+Name: "Bert Hubert", 
+Twitter: "PowerDNS_Bert",
+Photo: "berthubert.jpg",
+Website: "http://ds9a.nl",
+Bio: "I don't actually belong here, but I wrote this site, so I get to cheat. Physics dropout, entrepreneur and author of the PowerDNS internet software that powers around 30% of all internet domain names. I have always been overweight, and lost my parents to what I now know were preventable diseases. Diabetes and obesity run into my family, and somewhere in 2012 I decided that enough was enough and started reading up again about the latest science. Still have a lot of weight to lose, but getting there!"
 }
 ]
 
