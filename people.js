@@ -151,6 +151,13 @@ Website: "http://www.badscience.net/",
 Bio: "British physician, academic and science writer. As of 2012 he is Wellcome research fellow in epidemiology at the London School of Hygiene and Tropical Medicine. Ben is somewhat of an outlier in this field in that he’s not a specifically “new consensus” guy.  He most certainly is a “things must change” guy though! He’s fighting the medical and especially the pharmaceutical world for their bad pharma. Rightfully criticizes some of the new consensus people for being too sure of their case."
 },
 {
+Name: "Denise Minger",
+Twitter: "deniseminger",
+Website: "http://rawfoodsos.com/",
+Photo: "DeniseMinger.jpg",
+Bio: "Former vegetarian and vegan, these days she has come to her senses ;-) and now describes herself as a data junkie ('Numbers, along with strawberries, make me happy'). While she still eats a mostly plant based diet, these days she shares the fruits of modern research with us. Gained fame when she resoundingly debunked the 'China Study' which supposedly showed that eating animals, cholesterol and fats caused heart disease and cancer. Emphasis of her work is on unraveling research rather than building an ideology, with the goal to make nutritional science accessible and non-boring to those who really care about their health."
+},
+{
 Name: "Zoë Harcombe",
 Twitter: "ZoeHarcombe",
 Website: "http://www.zoeharcombe.com/",
