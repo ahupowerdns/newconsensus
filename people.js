@@ -204,11 +204,11 @@ Website: "http://proteinpower.com/drmike/",
 Bio: "Medical doctors and authors of a number of low-carb books of which “Protein Power” is probably the most well known. Maintain an interesting blog where they reflect on recent research. Tweets relevant material almost daily."
 },
 {
-Name: "Richard D. Feinman (‘Richard the Other’)",
-Twitter: "",
+Name: "Richard D. Feinman",
+Twitter: "DrFeinman",
 Website: "http://rdfeinman.wordpress.com/",
 Photo: "RichardDFeinman.jpg",
-Bio: "Richard David Feinman is a professor of biochemistry and medical researcher who studies nutrition and metabolism. His current area of research is the area of diet composition and energy balance. <a href=\"http://en.wikipedia.org/wiki/Richard_D._Feinman\">He is generally credited</a> for doing the first serious scientific research on the Atkins Diet. His latest work is on how cancer thrives on sugar and insulin, and the effects of very low carb diets on tumors."
+Bio: "Richard David Feinman is a professor of biochemistry and medical researcher who studies nutrition and metabolism. His current area of research is the area of diet composition and energy balance. <a href=\"http://en.wikipedia.org/wiki/Richard_D._Feinman\">He is generally credited</a> for doing the first serious scientific research on the Atkins Diet. His latest work is on how cancer thrives on sugar and insulin, and the effects of very low carb diets on tumors. He's an intellectual giant in the field, with his infrequent blogposts never failing to provide insights not found elsewhere - even though he carefully references his sources and influences."
 },
 {
 Name: "Tom Naughton",
