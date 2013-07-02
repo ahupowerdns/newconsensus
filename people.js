@@ -201,14 +201,14 @@ Doctor: true,
 Twitter: "DrEades",
 Photo: "MichaelEades.jpg",
 Website: "http://proteinpower.com/drmike/",
-Bio: "Medical doctors and authors of a number of low-carb books of which “Protein Power” is probably the most well known. Maintain an interesting blog where they reflect on recent research. Tweets relevant material almost daily."
+Bio: "Medical doctors and authors of a number of low-carb books of which “Protein Power” is probably the most well known. This book and other works laid an early foundation for where we are today. Maintain an interesting blog where they reflect on recent research. Tweets relevant material almost daily."
 },
 {
 Name: "Richard D. Feinman",
 Twitter: "DrFeinman",
 Website: "http://rdfeinman.wordpress.com/",
 Photo: "RichardDFeinman.jpg",
-Bio: "Richard David Feinman is a professor of biochemistry and medical researcher who studies nutrition and metabolism. His current area of research is the area of diet composition and energy balance. <a href=\"http://en.wikipedia.org/wiki/Richard_D._Feinman\">He is generally credited</a> for doing the first serious scientific research on the Atkins Diet. His latest work is on how cancer thrives on sugar and insulin, and the effects of very low carb diets on tumors. He's an intellectual giant in the field, with his infrequent blogposts never failing to provide insights not found elsewhere - even though he carefully references his sources and influences."
+Bio: "Richard David Feinman is a professor of biochemistry and medical researcher who studies nutrition and metabolism. <a href=\"http://en.wikipedia.org/wiki/Richard_D._Feinman\">He is generally credited</a> for doing the first serious scientific research on the Atkins Diet. His latest work is on how cancer thrives on sugar and insulin, and the effects of very low carb diets on tumors. He's an intellectual giant in the field, with his infrequent blogposts never failing to provide insights not found elsewhere - even though he carefully references his sources and influences."
 },
 {
 Name: "Tom Naughton",
@@ -234,7 +234,7 @@ Bio: "Alan L. Watson is a history graduate from the University of Minnesota, and
 },
 {
 Name: "Bert Hubert", 
-Twitter: "PowerDNS_Bert",
+Twitter: "Bert_Hubert",
 Photo: "berthubert.jpg",
 Website: "http://ds9a.nl",
 Bio: "I don't actually belong here, but I wrote this site, so I get to cheat. Physics dropout, entrepreneur and author of the PowerDNS internet software that powers around 30% of all internet domain names. I have always been overweight, and lost my parents to what I now know were preventable diseases. Diabetes and obesity run into my family, and somewhere in 2012 I decided that enough was enough and started reading up again about the latest science. Still have a lot of weight to lose, but getting there!"
